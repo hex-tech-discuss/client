@@ -1,0 +1,15 @@
+{
+  "name": "discuss_client",
+  "version": "0.1.0",
+  "description": "discuss plugin client sdk",
+  "author": "hxsf <hxsf@vip.qq.com>",
+  "license": "LGPL v3.0",
+  "private": true,
+  "devDependencies": {
+    "cross-env": "^2.0.0",
+    "eslint": "^3.3.0",
+    "eslint-config-standard": "^5.3.5",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0"
+  }
+}
